@@ -1,0 +1,156 @@
+Algoritmo Atravessar_Rua 
+
+   Inicio 
+
+     Caminhar até o meio Fio e Parar; 
+
+     Olhar para Esquerda 
+
+     Olhar para a Direita 
+
+     Se houver Carros a esquerda ou a direita 
+
+         esperar carros passarem 
+
+     Senão 
+
+         Atravesse a Rua  
+
+  
+
+FimAlgoritmo 
+
+Algoritmo Tomar_Banho 
+
+  Início
+        
+	Pegar a roupa
+	
+	Ir até o banheiro
+	
+	Abrir a porta do banheiro
+	
+	Entrar no banheiro
+	
+	Fechar a porta do banheiro
+	
+	Colocar a roupa limpa estendida
+	
+	Tirar a roupa
+
+	Abrir o chuveiro
+	
+	Se molhar
+	
+	Se ensaboar
+	
+	Se enxaguar
+	
+	Fechar o chuveiro
+	
+	Pegar a toalha
+	
+	Se secar
+	
+	Vestir a roupa limpa
+	
+
+FimAlgoritmo
+
+Algoritmo Trocar_Pneu   
+
+ Inicio
+	
+	Ir até o porta-malas do carro
+
+	Abrir o porta-malas
+
+	Pegar o triangulo
+
+	Colocar o triangulo a uma distancia segura
+
+	Ir até o porta-malas
+
+	Pegar o pneu
+
+	Pegar o macaco
+
+	Utilizar o macaco para deixar o carro suspenso
+
+	Pegar a chave
+
+	Tirar os parafusos da roda
+
+	Retirar o pneu usado
+
+	Colocar o pneu novo
+
+	Pegar os parafusos
+
+	Pegar a chave
+
+	Parafusar os parafusos
+
+	Pegar a chave
+
+	Pegar o pneu usado
+	
+	Ir até o porta-malas
+
+	Guardar o pneu usado
+
+	Guardar a chave que utilizou para apertar os parafusos
+
+	Retirar e guardar o triangulo
+
+	Fechar o porta-malas
+
+FimAlgoritmo
+
+Algoritmo Trocar_Lampada
+
+	Inicio
+	
+	Pegar a lâmpada nova
+
+	Colocar a lâmpada nova em local seguro
+
+	Desligar a luz
+
+	Pegar uma escada
+
+	Fixar a escada no local da troca
+
+	Subir na escada
+
+	Retirar a lâmpada usada
+
+	Descer a escada
+	
+	Colocar a lâmpada usada em local seguro
+
+	Pegar a lâmpada nova
+
+	Subir a escada
+
+	Colocar a lâmpada nova no bocal
+
+	Descer a escada
+
+	Ligar a luz
+
+	Pegar a escada
+
+	Guardar a escada
+
+FimAlgoritmo
+
+Algoritmo Somar_Numeros
+
+Inicio
+
+	A + B = C
+	C * A = D
+
+FimAlgoritmo
+	
